@@ -103,7 +103,7 @@ Projeto-Em-Business-Intelligence-e-Analytics/
 - [x] Auditoria de qualidade
 - [x] Limpeza e padronização
 - [x] Integração das bases
-- [ ] Análise exploratória
+- [x] Análise exploratória
 - [ ] Indicadores e Power BI
 - [ ] Modelagem preditiva
 - [ ] Avaliação
