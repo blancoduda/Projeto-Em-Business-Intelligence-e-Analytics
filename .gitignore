@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Arquivos temporários do sistema/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+~$*
+
+# VS Code
+.vscode/
+
+# Dados brutos
+data/raw/
+
+# Dados processados gerados localmente
+data/processed/
+
+# Arquivos temporários
+*.tmp
+*.log
