@@ -1,0 +1,5 @@
+﻿modelo,MAE,RMSE,R2
+Random Forest,5.27,6.82,0.1577
+Árvore de Decisão,5.53,7.06,0.0975
+Regressão Linear,5.62,7.16,0.0736
+Baseline,5.79,7.44,-0.0005

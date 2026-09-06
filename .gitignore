@@ -1,5 +1,6 @@
 # Ambiente virtual
 .venv/
+.venv-*/
 venv/
 
 # Python
@@ -23,7 +24,11 @@ Thumbs.db
 data/raw/
 
 # Dados processados gerados localmente
-data/processed/
+data/processed/*
+
+# Versiona apenas os arquivos finais usados pelo Power BI
+!data/processed/bi/
+!data/processed/bi/*.csv
 
 # Arquivos temporários
 *.tmp
